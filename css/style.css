@@ -83,7 +83,8 @@
     margin-top: 50px;
     background-color: #FFFFFF;
     display: grid;
-    grid-template-columns: 60% 40%;
+       grid-template-columns: 60% 40%; /* tenho dois monitores um hd e o outro Full Hd, a melhor forma foi essa que achei 
+    pra deixar uma melhor visualização nos dois, mas mesmo assim tem diferença entre eles.*/
     grid-template-rows: 150px 100px 400px;
 }
 
